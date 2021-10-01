@@ -1,3 +1,3 @@
-module github.com/cs-sysdes/tutorial.go
+module tutorial.go
 
 go 1.17
